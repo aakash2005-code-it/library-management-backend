@@ -1,22 +1,22 @@
-# 📚 Library Management System — Backend
+# Library Management System — Backend
 
 A RESTful API powering a full-stack Library Management System, built with Node.js, Express, and MySQL. Supports JWT-based authentication, role-based access control, and complete book/member/borrowing lifecycle management.
 
-🔗 **Frontend repo:** [library-management-frontend](https://github.com/aakash2005-code-it/library-management-frontend)
+**Frontend repo:** [library-management-frontend](https://github.com/aakash2005-code-it/library-management-frontend)
 
 ---
 
 ## Features
 
-- 🔐 **JWT Authentication** — secure signup/login with bcrypt password hashing
-- 👥 **Role-based access control** — separate Admin and Member permissions
-- 📚 **Book management** — add, search/filter, and view detailed book stats
-- 📤 **Borrow & Return system** — automatic availability tracking
-- 💰 **Fines tracking** — per-member fine calculation
-- ⚠️ **Overdue detection** — flags books past their due date
-- 📋 **Borrowing history** — full transaction history per member
-- 👤 **Member profiles** — aggregated stats per member (borrows, fines, activity)
-- 📊 **Dashboard stats** — live counts for books, members, active loans, and fines
+- **JWT Authentication** — secure signup/login with bcrypt password hashing
+- **Role-based access control** — separate Admin and Member permissions
+- **Book management** — add, search/filter, and view detailed book stats
+- **Borrow & Return system** — automatic availability tracking
+- **Fines tracking** — per-member fine calculation
+- **Overdue detection** — flags books past their due date
+- **Borrowing history** — full transaction history per member
+- **Member profiles** — aggregated stats per member (borrows, fines, activity)
+- **Dashboard stats** — live counts for books, members, active loans, and fines
 
 ---
 
